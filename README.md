@@ -1,10 +1,14 @@
 # Web-Server-Log-Analysis
-Web Server Log Analysis
-WEB SERVER LOG ANALYSIS
-Assume you host an e-commerce website. In order to understand your customers better, you want
+
+
+Assume you host an e-commerce website. 
+
+In order to understand your customers better, you want
 to analyse your Apache web logs to discover how people are finding your site. The web server
 logs, however, are too large to import into a MySQL database, and they are not in a relational
 format. You need another way to analyse them.
+
+
 Data Description:
 The compressed file contains the client requests captured by a Web server.
 You will find the below fields listed in that file.
